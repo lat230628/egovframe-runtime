@@ -85,3 +85,7 @@ org.egovframe.rte
 1. [실행환경 위키가이드](https://www.egovframe.go.kr/wiki/doku.php?id=egovframework:rte4.1)
 2. [개발환경 다운로드](https://www.egovframe.go.kr/home/sub.do?menuNo=94)
 3. [실행환경 다운로드](https://www.egovframe.go.kr/home/sub.do?menuNo=92)
+
+## License
+
+The eGovFrame is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
